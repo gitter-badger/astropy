@@ -45,3 +45,8 @@ License
 -------
 Astropy is licensed under a 3-clause BSD style license - see the
 ``licenses/LICENSE.rst`` file.
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/aktech/astropy
+   :target: https://gitter.im/aktech/astropy?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
